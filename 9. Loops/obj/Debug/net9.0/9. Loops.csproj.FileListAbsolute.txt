@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\bin\Debug\net9.0\9. Loops.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\bin\Debug\net9.0\9. Loops.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\bin\Debug\net9.0\9. Loops.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\bin\Debug\net9.0\9. Loops.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\bin\Debug\net9.0\9. Loops.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\refint\9. Loops.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\9. Loops.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\9. Loops\obj\Debug\net9.0\ref\9. Loops.dll
