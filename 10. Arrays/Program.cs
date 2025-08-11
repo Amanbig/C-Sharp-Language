@@ -50,6 +50,17 @@ namespace ArrayExample{
             Console.WriteLine("Min element is" + ar.Min());
             Console.WriteLine("Sum of elements is" + ar.Sum());
 
+            int[,] multiDimensionalArray = new int[2, 3]{
+                {1, 2, 3},
+                {4, 5, 6}
+            };
+            Console.WriteLine("Multidimensional array elements:");
+            for(int i =0;i<multiDimensionalArray.GetLength(0);i++){
+                for(int j=0;j<multiDimensionalArray.GetLength(1);j++){
+                    Console.Write(multiDimensionalArray[i,j]+" ");
+                }
+            }
+
         }
     }
 }
