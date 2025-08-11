@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\bin\Debug\net9.0\11. Methods.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\bin\Debug\net9.0\11. Methods.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\bin\Debug\net9.0\11. Methods.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\bin\Debug\net9.0\11. Methods.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\bin\Debug\net9.0\11. Methods.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\refint\11. Methods.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\11. Methods.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\11. Methods\obj\Debug\net9.0\ref\11. Methods.dll
