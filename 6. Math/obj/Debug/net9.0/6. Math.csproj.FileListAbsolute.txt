@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\bin\Debug\net9.0\6. Math.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\bin\Debug\net9.0\6. Math.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\bin\Debug\net9.0\6. Math.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\bin\Debug\net9.0\6. Math.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\bin\Debug\net9.0\6. Math.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\refint\6. Math.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\6. Math.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\6. Math\obj\Debug\net9.0\ref\6. Math.dll
