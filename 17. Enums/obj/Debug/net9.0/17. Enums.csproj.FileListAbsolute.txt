@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\bin\Debug\net9.0\17. Enums.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\bin\Debug\net9.0\17. Enums.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\bin\Debug\net9.0\17. Enums.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\bin\Debug\net9.0\17. Enums.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\bin\Debug\net9.0\17. Enums.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\refint\17. Enums.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\17. Enums.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\17. Enums\obj\Debug\net9.0\ref\17. Enums.dll
