@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\bin\Debug\net9.0\15. Abstraction.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\bin\Debug\net9.0\15. Abstraction.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\bin\Debug\net9.0\15. Abstraction.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\bin\Debug\net9.0\15. Abstraction.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\bin\Debug\net9.0\15. Abstraction.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\refint\15. Abstraction.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\15. Abstraction.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\15. Abstraction\obj\Debug\net9.0\ref\15. Abstraction.dll
