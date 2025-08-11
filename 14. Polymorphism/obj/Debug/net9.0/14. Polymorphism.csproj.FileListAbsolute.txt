@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\bin\Debug\net9.0\14. Polymorphism.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\bin\Debug\net9.0\14. Polymorphism.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\bin\Debug\net9.0\14. Polymorphism.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\bin\Debug\net9.0\14. Polymorphism.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\bin\Debug\net9.0\14. Polymorphism.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\refint\14. Polymorphism.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\14. Polymorphism.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\14. Polymorphism\obj\Debug\net9.0\ref\14. Polymorphism.dll
