@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\bin\Debug\net9.0\12. Classes.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\bin\Debug\net9.0\12. Classes.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\bin\Debug\net9.0\12. Classes.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\bin\Debug\net9.0\12. Classes.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\bin\Debug\net9.0\12. Classes.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\refint\12. Classes.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\12. Classes.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\12. Classes\obj\Debug\net9.0\ref\12. Classes.dll
