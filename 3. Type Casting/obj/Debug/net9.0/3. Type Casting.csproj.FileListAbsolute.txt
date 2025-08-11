@@ -1,0 +1,15 @@
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\bin\Debug\net9.0\3. Type Casting.exe
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\bin\Debug\net9.0\3. Type Casting.deps.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\bin\Debug\net9.0\3. Type Casting.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\bin\Debug\net9.0\3. Type Casting.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\bin\Debug\net9.0\3. Type Casting.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.sourcelink.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\refint\3. Type Casting.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\3. Type Casting.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\3. Type Casting\obj\Debug\net9.0\ref\3. Type Casting.dll
