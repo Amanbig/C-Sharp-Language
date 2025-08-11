@@ -1,0 +1,15 @@
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.sourcelink.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\bin\Debug\net9.0\2. Variables.exe
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\bin\Debug\net9.0\2. Variables.deps.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\bin\Debug\net9.0\2. Variables.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\bin\Debug\net9.0\2. Variables.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\bin\Debug\net9.0\2. Variables.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\refint\2. Variables.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\2. Variables.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\2. Variables\obj\Debug\net9.0\ref\2. Variables.dll
