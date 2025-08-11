@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\bin\Debug\net9.0\8. if-else.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\bin\Debug\net9.0\8. if-else.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\bin\Debug\net9.0\8. if-else.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\bin\Debug\net9.0\8. if-else.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\bin\Debug\net9.0\8. if-else.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\refint\8. if-else.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\8. if-else.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\8. if-else\obj\Debug\net9.0\ref\8. if-else.dll
