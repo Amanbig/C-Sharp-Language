@@ -1,0 +1,15 @@
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.sourcelink.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\bin\Debug\net9.0\1. introduction.exe
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\bin\Debug\net9.0\1. introduction.deps.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\bin\Debug\net9.0\1. introduction.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\bin\Debug\net9.0\1. introduction.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\bin\Debug\net9.0\1. introduction.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\refint\1. introduction.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\1. introduction.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\1. introduction\obj\Debug\net9.0\ref\1. introduction.dll
