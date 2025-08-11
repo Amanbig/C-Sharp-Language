@@ -1,0 +1,15 @@
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\bin\Debug\net9.0\4. User Input.exe
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\bin\Debug\net9.0\4. User Input.deps.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\bin\Debug\net9.0\4. User Input.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\bin\Debug\net9.0\4. User Input.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\bin\Debug\net9.0\4. User Input.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.sourcelink.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\refint\4. User Input.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\4. User Input.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\4. User Input\obj\Debug\net9.0\ref\4. User Input.dll
