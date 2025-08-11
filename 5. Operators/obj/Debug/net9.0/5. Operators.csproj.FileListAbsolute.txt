@@ -1,0 +1,15 @@
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\bin\Debug\net9.0\5. Operators.exe
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\bin\Debug\net9.0\5. Operators.deps.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\bin\Debug\net9.0\5. Operators.runtimeconfig.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\bin\Debug\net9.0\5. Operators.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\bin\Debug\net9.0\5. Operators.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.AssemblyInfoInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.AssemblyInfo.cs
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.csproj.CoreCompileInputs.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.sourcelink.json
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\refint\5. Operators.dll
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.pdb
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\5. Operators.genruntimeconfig.cache
+C:\Users\amanp\OneDrive\Documents\programming\C-Sharp-Language\5. Operators\obj\Debug\net9.0\ref\5. Operators.dll
