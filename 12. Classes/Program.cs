@@ -102,6 +102,7 @@ namespace ClassesExample
             Age = age;
         }
     }
+}
 
     /// <summary>
     /// Demonstrates static members, constructor overloading, and encapsulation
@@ -147,8 +148,6 @@ namespace ClassesExample
         {
             Console.WriteLine($"Account {_accountNumber} balance: ${_balance:F2}");
         }
-    }
-}
     private int num;
     public int Num{
         get { return num; }

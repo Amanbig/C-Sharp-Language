@@ -93,12 +93,9 @@ namespace ArrayExample
             string[] fruitsCopy = new string[fruits.Length];
             Array.Copy(fruits, fruitsCopy, fruits.Length);
             Console.WriteLine($"  Copied array: [{string.Join(", ", fruitsCopy)}]");
-
+            int[] ar = { 1, 2, 3, 4, 5 };
             Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
-        }
-    }
-}
             Console.WriteLine("Sum of elements is" + ar.Sum());
 
             int[,] multiDimensionalArray = new int[2, 3]{

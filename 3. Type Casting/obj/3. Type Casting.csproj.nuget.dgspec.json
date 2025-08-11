@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amanp\\OneDrive\\Documents\\programming\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj": {}
+    "C:\\Users\\ROGST\\Documents\\Programming\\C#\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amanp\\OneDrive\\Documents\\programming\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj": {
+    "C:\\Users\\ROGST\\Documents\\Programming\\C#\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amanp\\OneDrive\\Documents\\programming\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj",
+        "projectUniqueName": "C:\\Users\\ROGST\\Documents\\Programming\\C#\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj",
         "projectName": "3. Type Casting",
-        "projectPath": "C:\\Users\\amanp\\OneDrive\\Documents\\programming\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj",
-        "packagesPath": "C:\\Users\\amanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amanp\\OneDrive\\Documents\\programming\\C-Sharp-Language\\3. Type Casting\\obj\\",
+        "projectPath": "C:\\Users\\ROGST\\Documents\\Programming\\C#\\C-Sharp-Language\\3. Type Casting\\3. Type Casting.csproj",
+        "packagesPath": "C:\\Users\\ROGST\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ROGST\\Documents\\Programming\\C#\\C-Sharp-Language\\3. Type Casting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\amanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ROGST\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
