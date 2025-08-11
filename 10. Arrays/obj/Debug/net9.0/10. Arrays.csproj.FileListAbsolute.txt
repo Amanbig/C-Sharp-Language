@@ -1,0 +1,15 @@
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.AssemblyInfoInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.AssemblyInfo.cs
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.sourcelink.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\bin\Debug\net9.0\10. Arrays.exe
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\bin\Debug\net9.0\10. Arrays.deps.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\bin\Debug\net9.0\10. Arrays.runtimeconfig.json
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\bin\Debug\net9.0\10. Arrays.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\bin\Debug\net9.0\10. Arrays.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\refint\10. Arrays.dll
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.pdb
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\10. Arrays.genruntimeconfig.cache
+C:\Users\ROGST\Documents\Programming\C#\C-Sharp-Language\10. Arrays\obj\Debug\net9.0\ref\10. Arrays.dll
