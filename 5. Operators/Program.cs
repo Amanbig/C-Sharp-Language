@@ -96,12 +96,12 @@ namespace Operators
 
 
             // Logical operators
-            bool x = true;
-            bool y = false;
-            Console.WriteLine($"x AND y: {x && y}");
-            Console.WriteLine($"x OR y: {x || y}");
-            Console.WriteLine($"NOT x: {!x}");
-            Console.WriteLine($"NOT y: {!y}");
+            bool x1 = true;
+            bool y1 = false;
+            Console.WriteLine($"x1 AND y1: {x1 && y1}");
+            Console.WriteLine($"x1 OR y1: {x1 || y1}");
+            Console.WriteLine($"NOT x1: {!x1}");
+            Console.WriteLine($"NOT y1: {!y1}");
         }
     }
 }
